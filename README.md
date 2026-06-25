@@ -49,10 +49,6 @@ The project applies **Exploratory Data Analysis (EDA)**, statistical techniques,
 
 ## 🛠️ Technologies Used
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,vscode,github" />
-</p>
-
 ### Libraries
 
 - Pandas
@@ -229,31 +225,6 @@ Created new business-oriented features:
 - Enhance restaurant visibility through customer engagement programs.
 
 ---
-
-## 📁 Repository Structure
-
-```bash
-Restaurant-Success-Analytics/
-│
-├── Dataset/
-│   ├── zomato.csv
-│   └── Country-Code.xlsx
-│
-├── Notebook/
-│   └── Restaurant_Success_Analytics.ipynb
-│
-├── Report/
-│   └── Restaurant_Success_Analytics_Report.docx
-│
-├── Images/
-│   ├── city_distribution.png
-│   ├── cuisine_analysis.png
-│   ├── rating_analysis.png
-│   ├── delivery_analysis.png
-│   └── correlation_heatmap.png
-│
-└── README.md
-```
 
 ---
 
